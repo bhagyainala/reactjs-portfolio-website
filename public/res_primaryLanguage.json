@@ -1,0 +1,185 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Bhagyalakshmi Inala :) A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Bank App",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to showcase about the services, payment process and more details about the state bank.",
+        "images": [
+          "data:image/jpeg;base64,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",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs00juZZ4ElJLNvSIIkE4QGN_pqDV5MFMBw_yKbpmbK_DASRNI-pn4WJcpzjagvdD7oAo&usqp=CAU"
+        ],
+        "url": "https://bankapp-bhagya-website-reactjs.netlify.app",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain colored"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain colored"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain colored"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-original colored"
+          }
+        ]
+      },
+      {
+        "title": "Linkedin CLone",
+        "startDate": "2023",
+        "description": "Personal project for study subject. I was responsible devloping an application that was UI clone to Linkedin website including profile section, Posts, Navbar and many more :)",
+        "images": [
+          "https://s3-alpha.figma.com/hub/file/3855586628/de6a56e6-27cd-46d6-b46f-e2c961ce5fde-cover.png"
+        ],
+        "url": "https://linkedin-ui-clone-bhagya-project.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Reactjs Tutorials",
+        "startDate": "2020",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows some inportant tutorilas and topic expalnation available in Reactjsv16 . I've learned a lot!",
+        "images": [
+          "https://miro.medium.com/v2/da:true/resize:fit:815/1*GLw45yekpoOPR7zxa1VE1g.gif"
+        ],
+        "url": "https://reactjs-tutorials-bhagya-website.netlify.app",
+        "technologies": [
+          {
+            "name": "React",
+            "class": "devicon-react-original colored"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain colored"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Invoice Generator",
+        "startDate": "2022",
+        "description": "The Intresting application i had worked involves caluclation of the items price with tax, discounts rates and genarated a invoice pdf witl total caluclations",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YEHWqH3_Z0bsv3s5tOAmxh57uV3PfCkpiw&usqp=CAU"
+        ],
+        "url": "https://invoice-summary-app-bhagya-project.netlify.app",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain colored"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain colored"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain colored"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-original colored"
+          }
+        ]
+      },
+      {
+        "title": "Shopping APp",
+        "startDate": "2023",
+        "description": "Developed a Shoping application that invvolves listing all the products based on categories, view item details, add to cart functionality. Developed for learning purpose.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJS6tOgursWXDqAdeIABtRIbWv25RYBrY5eA&usqp=CAU"
+        ],
+        "url": "https://shopping-app-bhagya-project.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Recipes DB",
+        "startDate": "2023",
+        "description": "The Cocktail DB, The most expanded application I had opportunity to work with.",
+        "images": [
+          "https://repository-images.githubusercontent.com/264428994/88337000-c8aa-11eb-854c-026c68de280a"
+        ],
+        "url": "https://recipes-app-bhagya-project.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "IBM",
+        "title": "Front-End Developer",
+        "years": "Mar 2020 - Aug 2022",
+        "mainTech": [
+          "Reactjs v16"
+        ],
+        "technologies": [
+          "Reactjs",
+          "Redux",
+          "TypeScript",
+          "Jest",
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap"
+        ],
+        "description":"I am working on healthcare products(NIB). The projects involves various modules.Our goal is to develope a reusable responsive reactjs ccomponents. Worked on ene to end process of application which involves Agile development practices, sprint planning,UI/UX Screens design, Feature development,Testing, Deployment through CI/CD pipelines"
+      },
+      {
+        "company": "CampK12",
+        "title": "Coding Instructor",
+        "years": "Jul 2020 - Nov 2021",
+        "mainTech": [
+          "Virtual Reality"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "AI"
+        ],
+        "description":"Worked as an online coding instructor at CampK12 where I taught various technologies like Virtual Reality and Artificial Intelligence to higher grade students and made them to learn coding in a fun and easier manner."
+      }
+    ]
+  }

@@ -1,0 +1,85 @@
+{
+    "basic_info": {
+      "name": "Bhagyalakshmi Inala",
+      "titles": [ "Front-end Developer", "Software Engineer", "SQL Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/bhagyalakshmi-inala-825862154/?originalSubdomain=in",
+          "class": "fab fa-linkedin-in"
+        },
+        {
+          "name": "codechef",
+          "url": "https://www.codechef.com/users/graphs_11",
+          "class": "fa-regular fa-code"
+        }
+      ],
+  
+      "image": "https://media.licdn.com/dms/image/D4E03AQGDn2fqDlEoaw/profile-displayphoto-shrink_800_800/0/1701436178274?e=1710979200&v=beta&t=-cQrkOBrEkaBUyyrKT3PfqL-Og6gW12pinIQ1aM0wB8"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+       
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Babel",
+          "class": "devicon-babel-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain colored",
+          "level": "60"
+        }
+      ]
+    }
+  }
