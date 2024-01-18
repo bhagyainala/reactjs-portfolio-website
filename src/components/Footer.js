@@ -6,10 +6,15 @@ class Footer extends Component {
       var networks = this.props.sharedBasicInfo.social.map(function (network) {
         return (
           <span key={network.name} className="m-4">
+
             <a href={network.url} target="_blank" rel="noopener noreferrer">
-              <i className={network.class}></i>
+          {
+            network.name  ==="github" || network.name ==="linkedin" ? (    <i className={network.class}></i>):(network.name ==="codechef" && <img src="https://avatars.githubusercontent.com/u/11960354?v=4" style={{width:'40px', height:'40px'}}/>)
+          }
+        
             </a>
           </span>
+          
         );
       });
     }

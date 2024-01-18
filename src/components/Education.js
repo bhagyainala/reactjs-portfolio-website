@@ -23,6 +23,34 @@ class Education extends Component {
                 </div>
                 <div className="col-md-8 mx-auto">
                     <VerticalTimeline>
+                    <VerticalTimelineElement
+                            className="vertical-timeline-element--work"
+
+                            iconStyle={{
+                                background: "#AE944F",
+                                color: "#fff",
+                                textAlign: "center",
+                            }}
+                            icon={<i className="fab fa-angular experience-icon"></i>}
+
+                        >
+
+                            <h4
+                                className="vertical-timeline-element-subtitle"
+                                style={{ textAlign: "left" }}
+                            >
+                       Wilmington University
+
+                            </h4>
+
+                            <h3
+                                className=""
+                                style={{}}
+                            >
+                                <p>Master's degree, Computer Science</p>
+                            </h3>
+
+                        </VerticalTimelineElement>
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
 
@@ -51,34 +79,7 @@ class Education extends Component {
 
                         </VerticalTimelineElement>
 
-                        <VerticalTimelineElement
-                            className="vertical-timeline-element--work"
-
-                            iconStyle={{
-                                background: "#AE944F",
-                                color: "#fff",
-                                textAlign: "center",
-                            }}
-                            icon={<i className="fab fa-angular experience-icon"></i>}
-
-                        >
-
-                            <h4
-                                className="vertical-timeline-element-subtitle"
-                                style={{ textAlign: "left" }}
-                            >
-                              Northern Arizona University
-
-                            </h4>
-
-                            <h3
-                                className=""
-                                style={{}}
-                            >
-                                <p>Master's degree, Computer ScienceMaster's degree, Computer Science</p>
-                            </h3>
-
-                        </VerticalTimelineElement>
+                       
                         <VerticalTimelineElement
                             iconStyle={{
                                 background: "#AE944F",
